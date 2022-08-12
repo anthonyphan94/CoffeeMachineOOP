@@ -1,3 +1,8 @@
+
+from menu import Menu, MenuItem
+
+NewMenu = Menu()
+
 class CoffeeMaker:
     """Models the machine that makes the coffee"""
     def __init__(self):
